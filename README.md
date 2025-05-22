@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://magic-lotus-bd5.notion.site/184d34b67d2880baae47eb7bc5d90c42?pvs=4">
-    <img src="https://img.shields.io/badge/이력서(Resume)-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+    <img src="https://img.shields.io/badge/이력서(Resume)?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
 </p>
 
