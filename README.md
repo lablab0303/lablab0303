@@ -7,8 +7,14 @@
   </a>
 </p>
 
+### Interest 🧐
+- Time Series Forecasting
+- Anomaly Detection
+- MLOps(Machine Learing Operation)
+- AWS
+- Financial Data
 ---
-### 💪 Tech Stacks
+###  Tech Stacks 🛠️
 
 #### Tech Stacks
 <p align="left">
@@ -19,28 +25,14 @@
 </p>
 
 ---
-
-### 🚀 Project
-
-- 📅 **PHCCS** (2024.04 ~ 진행중)  
-  반려견 피부질환 검진 & 커뮤니티 서비스 개발 프로젝트입니다.  
-  `Java`, `Spring Boot`, `MyBatis`, `MySQL`, `Spring Security`, `JWT`
-
-  <a href="https://github.com/buja0824/PHCCS.git">
-    <img src="https://img.shields.io/badge/🔗 GitHub&nbsp;Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+###  Contact Me 📞
+<div align=left>
   
----
+[![Tistory Blog](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://fintechdata.tistory.com/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kiwoong616@gmail.com)](mailto:studyingnam@gmail.com)
+</div>
 
-### 🏆 Achievements
 
-- 🧾 PCCP Lv.2 – Java (2025.01) [인증서](https://certi.programmers.co.kr/result/share/9449)
-- 🥇 대진대 지역 대학간 SW 캡스톤 디자인 경진대회 대상 (2025.02)
-- 🥈 대진대 벤처스타트업 아카데미 캡스톤 디자인 발표회 우수상 (2024.12)
 
 ---
 
-### 📨 Contacts
-
-[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:kiwoong616@gmail.com)
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@wsrn158)
