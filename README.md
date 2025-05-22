@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Kiwoong Park</h1>
+<h1 align="center"> Ki Woong Park</h1>
 <p align="center"> Data Scientist
 
 <p align="center">
