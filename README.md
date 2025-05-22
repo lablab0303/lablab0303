@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Kiwoong Park</h1>
-<p align="center">Data Analytics | Data Scientist
+<p align="center"> Data Scientist
 
 <p align="center">
   <a href="https://magic-lotus-bd5.notion.site/184d34b67d2880baae47eb7bc5d90c42?pvs=4">
@@ -28,6 +28,6 @@
 
 [![Tistory Blog](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white)](https://fintechdata.tistory.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kiwoong616@gmail.com)
-
+[![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:kiwoong0616@naver.com)
 </div>
 
