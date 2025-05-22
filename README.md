@@ -15,8 +15,6 @@
 - Financial Data
 ---
 ###  Tech Stacks 🛠️
-
-#### Tech Stacks
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
@@ -26,13 +24,11 @@
 
 ---
 ###  Contact Me 📞
-<div align=left>
-  
-[![Tistory Blog](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://fintechdata.tistory.com/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kiwoong616@gmail.com)](mailto:studyingnam@gmail.com)
+<div align="left">
+
+[![Tistory Blog](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white)](https://fintechdata.tistory.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kiwoong616@gmail.com)
+
 </div>
-
-
-
 ---
 
