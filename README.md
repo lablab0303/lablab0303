@@ -2,7 +2,7 @@
 <p align="center"> Data Scientist
 
 <p align="center">
-  <a href="https://magic-lotus-bd5.notion.site/184d34b67d2880baae47eb7bc5d90c42?pvs=4">
+  <a href="https://www.notion.so/1fbbd8800c74803c8e8df57f2e99c7aa?source=copy_link">
     <img src="https://img.shields.io/badge/이력서(Resume)?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
 </p>
