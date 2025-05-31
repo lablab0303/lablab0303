@@ -3,7 +3,8 @@
 
 <p align="center">
   <a href="https://www.notion.so/1fbbd8800c74803c8e8df57f2e99c7aa?source=copy_link">
-    <img src="https://img.shields.io/badge/이력서(Resume)?style=for-the-badge&logo=notion&logoColor=white"/>
+    <!-- 라벨-메시지-색상 -->
+    <img src="https://img.shields.io/badge/이력서_(Resume)-Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
 </p>
 
